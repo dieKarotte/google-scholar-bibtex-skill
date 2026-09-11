@@ -51,9 +51,9 @@ pip install -r requirements.txt
 
 ```bash
 # Claude Code
-git clone https://github.com/<you>/google-scholar-bibtex-skill ~/.claude/skills/google-scholar-bibtex
+git clone https://github.com/dieKarotte/google-scholar-bibtex-skill ~/.claude/skills/google-scholar-bibtex
 # Qoder CLI / other agents: clone into the agent's skills directory, e.g.
-git clone https://github.com/<you>/google-scholar-bibtex-skill ~/.qoder/skills/google-scholar-bibtex
+git clone https://github.com/dieKarotte/google-scholar-bibtex-skill ~/.qoder/skills/google-scholar-bibtex
 ```
 
 Then ask your agent: *"fetch Scholar BibTeX for every title in my list"* — or use the
