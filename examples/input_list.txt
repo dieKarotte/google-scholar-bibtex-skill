@@ -1,0 +1,8 @@
+# Example input list for gs_bibtex_crawler.py
+# Format: ordinal | citation_key | exact title to search
+# Optional: an embedded BibTeX block under an entry (used only as cross-check hint).
+0001 | vaswani2017attention | Attention Is All You Need
+0002 | he2016deep | Deep Residual Learning for Image Recognition
+0003 | krizhevsky2012imagenet | ImageNet Classification with Deep Convolutional Neural Networks
+0004 | hochreiter1997long | Long Short-Term Memory
+0005 | mikolov2013distributed | Distributed Representations of Words and Phrases and their Compositionality
